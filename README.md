@@ -1,4 +1,4 @@
-# Dgpays Portal,
+# Dgpays Portal
 
 ![serhaterkan](https://demo.digitool.agency/dgpays.png)
 
