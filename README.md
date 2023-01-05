@@ -1,4 +1,6 @@
-# Dgpays Portal
+# Dgpays Portal,
+
+![serhaterkan](https://demo.digitool.agency/dgpays.png)
 
 [![node version](https://img.shields.io/badge/node-18.12.1-green)](https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions-enterprise-linux-fedora-and-snap-packages)
 
@@ -21,5 +23,5 @@ $ npm install
 ```bash
 $  npm run start
 ```
-## Screenshot
-![serhaterkan](https://demo.digitool.agency/dgpays.png)
+
+
