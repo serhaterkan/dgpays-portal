@@ -21,3 +21,5 @@ $ npm install
 ```bash
 $  npm run start
 ```
+## Screenshot
+![serhaterkan](https://demo.digitool.agency/dgpays.png)
